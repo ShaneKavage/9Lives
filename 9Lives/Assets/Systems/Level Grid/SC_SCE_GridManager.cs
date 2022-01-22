@@ -8,12 +8,12 @@ public class SC_SCE_GridManager : MonoBehaviour
     private GameObject player;
 
     [SerializeField]
-    private const int _GridWidth = 5;
+    private const int _GridWidth = 3;
     [SerializeField]
-    private const int _GridHeight = 10;
+    private const int _GridHeight = 4;
 
     [SerializeField]
-    private const int _SubGridSize = 50;
+    private const int _SubGridSize = 20;
     [SerializeField]
     private const int _SingleCellSize = 5;
 
